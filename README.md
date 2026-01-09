@@ -8,25 +8,30 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-Hello! I'm **Aman Verma**, a passionate 16-year-old programmer from **India**. I'm currently a **10th-grade student at Delhi Public School**, where I explore the fascinating world of **web development, software development, and artificial intelligence**. I started my coding journey four years ago and have developed skills in **HTML, CSS, JavaScript, Node.js, Express.js, React, Python, and more**. 
+I’m a Class 10 student who enjoys building complete web-based products and understanding how systems work end-to-end.
 
-My projects include **Netflix and Spotify web clones, an AI assistant GUI, and other exciting developments**. I love combining creativity with technology and am always eager to learn and tackle new challenges.
-
----
-
-## 🚀 Future Goals
-
-- 🎓 **College Aspirations**: Aiming to apply to **MIT, Stanford, Harvard, Cambridge, Imperial, NUS and IITs**, and other top institutions for **2028 intake** to further my studies in **Computer Science**.
-- 💼 **Career Path**: Aspiring to become a **full-stack developer** and contribute to innovative tech projects.
-- 🌟 **Freelancing**: Looking forward to **collaborating on exciting projects** and expanding my **coding repertoire** through freelance work.
+I primarily work with JavaScript and focus on full-stack-heavy projects with real functionality rather than static demos. Most of my learning happens through building, breaking, and refining projects.
 
 ---
 
-## 💻 Tech Stack
+## Selected Projects
 
-### 🔹 Programming Languages & Frameworks
+1. LexiconAI
+AI-powered web app integrating multiple language models via APIs. Focused on UI clarity, response handling, and prompt workflows.
+
+2. MoonLink (Frontend)
+Built the frontend for a hackathon project focused on decentralized communication. Worked on layout, state handling, and UX under time constraints.
+
+3. Spotify Clone
+Implemented a dynamic music player with album-based navigation and song control using vanilla JavaScript.
+
+---
+
+## Tech Stack
+
+### Programming Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,7 +42,7 @@ My projects include **Netflix and Spotify web clones, an AI assistant GUI, and o
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -46,7 +51,7 @@ My projects include **Netflix and Spotify web clones, an AI assistant GUI, and o
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanverma2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" alt="GitHub Stats" />
@@ -59,7 +64,7 @@ My projects include **Netflix and Spotify web clones, an AI assistant GUI, and o
 
 ---
 
-## 🌍 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-verma-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
