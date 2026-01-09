@@ -18,13 +18,16 @@ I primarily work with JavaScript and focus on full-stack-heavy projects with rea
 
 ## Selected Projects
 
-1. LexiconAI
+**1. LexiconAI**
+
 AI-powered web app integrating multiple language models via APIs. Focused on UI clarity, response handling, and prompt workflows.
 
-2. MoonLink (Frontend)
+**2. MoonLink (Frontend)**
+
 Built the frontend for a hackathon project focused on decentralized communication. Worked on layout, state handling, and UX under time constraints.
 
-3. Spotify Clone
+**3. Spotify Clone**
+
 Implemented a dynamic music player with album-based navigation and song control using vanilla JavaScript.
 
 ---
