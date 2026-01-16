@@ -56,13 +56,12 @@ Implemented a dynamic music player with album-based navigation and song control 
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanverma2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanverma2009&theme=dark&hide_border=false" width="49%" alt="GitHub Streak" />
-</p>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amanverma2009?cardType=github&theme=dark&fontFamily=Poppins&preferLogin=false)](https://git.io/awesome-stats-card)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=amanverma2009&theme=dark)](https://git.io/streak-stats)
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma2009&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma2009&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50" alt="Most Used Languages" />
 </p>
 
 ---
@@ -72,7 +71,6 @@ Implemented a dynamic music player with album-based navigation and song control 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-verma-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/aman.ve.rma"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/amanverma2009"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
