@@ -58,13 +58,13 @@ Implemented a dynamic music player with album-based navigation and song control 
 
 <p align="center">
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amanverma2009?cardType=github&theme=dark&fontFamily=Poppins&preferLogin=false)](https://git.io/awesome-stats-card)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=amanverma2009&theme=dark)](https://git.io/streak-stats)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amanvermaweb?cardType=github&theme=dark&fontFamily=Poppins&preferLogin=false)](https://git.io/awesome-stats-card)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=amanvermaweb&theme=dark)](https://git.io/streak-stats)
   
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma2009&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvermaweb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50" alt="Most Used Languages" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Implemented a dynamic music player with album-based navigation and song control 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanverma2009&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amanvermaweb&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 
