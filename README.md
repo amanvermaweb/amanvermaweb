@@ -64,7 +64,9 @@ Implemented a dynamic music player with album-based navigation and song control 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvermaweb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50" alt="Most Used Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanvermaweb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
+
 </p>
 
 ---
@@ -77,7 +79,7 @@ Implemented a dynamic music player with album-based navigation and song control 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanvermaweb&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amanvermaweb&label=Profile%20Views&color=orange&style=flat" alt="Profile Views" />
 </p>
 
 
