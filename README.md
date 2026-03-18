@@ -22,9 +22,9 @@ I primarily work with JavaScript and focus on full-stack-heavy projects with rea
 
 AI-powered web app integrating multiple language models via APIs. Focused on UI clarity, response handling, and prompt workflows.
 
-**2. MoonLink (Frontend)**
+**2. GitInsight**
 
-Built the frontend for a hackathon project focused on decentralized communication. Worked on layout, state handling, and UX under time constraints.
+GitInsight is a developer portfolio analyzer tool where user can search their username, and find AI reviews their profile.
 
 **3. Spotify Clone**
 
